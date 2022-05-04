@@ -1,6 +1,6 @@
 /*
  * Description: Robot 5 DOF. Controlled by a PCA 9685 and with a microcontroller ESP 8266. WebServer in ESP8266 to control the robot through Internet
- * Author: Alberto Araque
+ * Author: Pierce001
  * Date: August 2018
  * 
  * 
